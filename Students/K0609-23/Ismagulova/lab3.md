@@ -8,12 +8,15 @@
 
 Далее создается изолированная сеть и в ней запускаем два контейнера.
 *Проблема*: если правильно поняла, была как у многих проблема с запуском из-за файла /etc/docker/daemon.json. Я его пыталась и сама поправить, и через гпт, в итоге поправила как в группе тг.
+
 <img width="830" height="337" alt="изображение" src="https://github.com/user-attachments/assets/374c66a9-6507-4cfc-a3fa-37c5f9b40e87" />
 
 Также выполнялась проверка пинга и порта.
+
 <img width="590" height="320" alt="изображение" src="https://github.com/user-attachments/assets/7abd0be9-2ceb-4907-bd67-037f1a9633ec" />
 
 Также выполнила сравнение и он его не нашел.
+
 <img width="584" height="149" alt="изображение" src="https://github.com/user-attachments/assets/c0bc070b-1713-4a7b-bb71-2c18fdef5c9e" />
 
 ## block2
